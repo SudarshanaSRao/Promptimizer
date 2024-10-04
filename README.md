@@ -1,5 +1,5 @@
 # Promptimizer
-My team worked on a proof of concept at the AWS Gen-AI Loft hackathon. We leveraged Antropic's Claude to iteratively optimize prompts to solve [LeetCode hard problems](https://www.kaggle.com/datasets/akshatsharma0610/leetcode-all-hard-problems-dataset). This can be used to convert any prompt into an optimized one. 
+My team worked on a proof of concept at the AWS Gen-AI Loft hackathon. We leveraged Antropic's Claude to iteratively optimize prompts to solve LeetCode hard problems [(dataset)](https://www.kaggle.com/datasets/akshatsharma0610/leetcode-all-hard-problems-dataset). This can be used to convert any prompt into an optimized one. 
 
 ## Workflow
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/f450fdf1-ba6b-4be2-9a90-6ce7ded84579">
