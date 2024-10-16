@@ -1,4 +1,4 @@
-# Promptimizer
+# Prompt Optimizer
 My team worked on a proof of concept at the AWS Gen-AI Loft hackathon. We developed a multi-agentic workflow to iteratively optimize prompts to solve LeetCode hard problems [(dataset)](https://www.kaggle.com/datasets/akshatsharma0610/leetcode-all-hard-problems-dataset). This can be used to convert any prompt into an optimized one. 
 
 ## Workflow
