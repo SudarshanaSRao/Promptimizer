@@ -8,3 +8,6 @@ My team worked on a proof of concept at the AWS Gen-AI Loft hackathon. We develo
 ![image](https://github.com/user-attachments/assets/f5cb08a8-609b-4fcd-b09b-bf7c3732fe6e)
 
 <img width="1011" alt="image" src="https://github.com/user-attachments/assets/e4df75b2-90da-4942-bbeb-d1b1b186a63f">
+
+![Graddaree](https://github.com/user-attachments/assets/7306b263-38f2-4557-8458-c27833bcbe56)
+
